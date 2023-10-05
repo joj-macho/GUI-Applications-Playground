@@ -4,7 +4,7 @@
 
 The BMI (Body Mass Index) calculator is a simple tool that allows users to calculate their BMI based on their height and weight. BMI is a numerical value of a person's weight in relation to their height. It is used to classify individuals into different weight categories, indicating whether they are underweight, normal weight, overweight, or obese.
 
-The BMI is calculated using the following formula: $BMI = \frac{\text{weight in kilograms}}{(\text{height in meters})^2}$
+The BMI is calculated using the following formula: $BMI = \frac{\text{Weight (kg)}}{(\text{height (m)})^2} = \frac{\text{Weight (kg)}}{(\frac{\text{height (cm)}}{100})^2}$
 
 
 ## How it Works
