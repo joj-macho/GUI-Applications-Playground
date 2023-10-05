@@ -18,6 +18,11 @@ This program implements a simple calculator using the tkinter library in Python.
 
 ## Program Input & Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 simple_calculator.py
+```
+
 When you run the program, `simple_calculator.py`, the output will look like this:
 
 <p align="center">

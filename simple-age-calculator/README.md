@@ -19,6 +19,11 @@ This program is a simple age calculator implemented using Python's tkinter libra
 
 ## Program Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 age_calculator.py
+```
+
 When you run the program, `age_calculator.py`, the output will look like this:
 
 <p align="center">

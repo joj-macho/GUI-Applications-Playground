@@ -16,6 +16,11 @@ This Python program utilizes the tkinter library to create a simple digital cloc
 
 ## Program Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 digital_clock.py
+```
+
 When you run the program, `digital_clock.py`, the output will look like this:
 
 <p align="center">

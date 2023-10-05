@@ -22,6 +22,11 @@ The BMI is calculated using the following formula: $BMI = \frac{\text{Weight (kg
 
 ## Program Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 bmi_calculator.py
+```
+
 When you run the program `bmi_calculator.py`, the output will look like this:
 
 <p align="center">

@@ -21,6 +21,11 @@ Beat Board is a simple drum pad application that allows users to play drum sound
 
 ## Program Input & Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 beat_board.py
+```
+
 When you run the program `beat_board.py`, the program will produce a sound output corresponding to the specific drum sound triggered by the user. The interface will look like this:
 
 <p align="center">

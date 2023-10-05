@@ -20,6 +20,11 @@ This program utilizes the Python tkinter library to create a simple analog clock
 
 ## Program Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 analog_clock.py
+```
+
 When you run the program, `analog_clock.py`, the output will look like this:
 
 <p align="center">

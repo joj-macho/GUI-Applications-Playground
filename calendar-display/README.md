@@ -16,6 +16,11 @@ This is a simple calendar display application created using the Tkinter library.
 
 ## Program Output
 
+Make sure you have the Python tkinter library installed. Run the following command in the terminal to start the application:
+```bash
+python3 calendar_display.py
+```
+
 When you run the program, `calendar_display.py`, the output will look like this:
 
 <p align="center">
